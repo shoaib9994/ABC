@@ -1,6 +1,3 @@
 # ABC
 
-# 1st commit by developer A
-# 1 commit
-# 2 commit
-# 3 commit
+# This is shoaib branch 1st commit
